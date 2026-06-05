@@ -1,0 +1,2 @@
+"""Dating bot application package."""
+
